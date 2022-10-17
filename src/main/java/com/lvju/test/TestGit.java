@@ -10,5 +10,7 @@ public class TestGit
         System.out.println("testGit4    hot_fix_first");
         System.out.println("testGit4    hot_fix_second");
         System.out.println("testGit4");
+        System.out.println("push test");
+
     }
 }
