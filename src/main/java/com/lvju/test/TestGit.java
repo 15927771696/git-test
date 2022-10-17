@@ -8,5 +8,6 @@ public class TestGit
         System.out.println("testGit2");
         System.out.println("testGit3");
         System.out.println("testGit4    hot_fix_first");
+        System.out.println("testGit4");
     }
 }
